@@ -2,6 +2,7 @@
 This is my final project for the class <br>
 
 <b>Abstract</b> 
+
 As a student focusing on East Asian Studies, the topic of the project will be the Chinese's people attitude toward the government's birth-encouraging policies online. China has been loosening its birth constraint and launching birth-encouraging policies for the past few years. Although it is not hard to imagine that most of the general opinion might not favor these, I am interested in what people on particular topics complain about or discuss regarding the policies. My conclusion for the analysis is that there is not much different for people's attitude toward birth-rate related policies across 2021~2023, and the discussions were most likely to be response to government news.
 
 <b>How to read the project notebooks</b>
