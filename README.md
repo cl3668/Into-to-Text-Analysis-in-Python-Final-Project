@@ -9,8 +9,12 @@ As a student focusing on East Asian Studies, the topic of the project will be th
 
 The analysis is consisting of three notebooks: Data Collection, Text Analysis, and Appendix, along with some folders, files, graphs for use. Please read the notebook with the below flow:
 1. Script1: Data Collection – Weibo web scarping
-This notebook includes the introduction to the project, and the data collection part of the analysis. <br> <br>
+This notebook includes the introduction to the project, and the data collection part of the analysis. <br>
+Link: https://github.com/cl3668/Into-to-Text-Analysis-in-Python-Final-Project/blob/main/Script%201-%20Data%20collection%20-%20Weibo%20web%20scraping.ipynb <br> <br>
 2. Script2: Text Analysis - Weibo comments
-This notebook is the main analysis, starting with stating the analysis framework, then go through the detail codes with conclusion for each step, and coming to the main conclusion with next steps and limitations of the research. <br> <br>
+This notebook is the main analysis, starting with stating the analysis framework, then go through the detail codes with conclusion for each step, and coming to the main conclusion with next steps and limitations of the research.  <br>
+Link: https://github.com/cl3668/Into-to-Text-Analysis-in-Python-Final-Project/blob/main/Script%202%20-%20Text%20Analysis%20-%20Weibo%20comments.ipynb
+<br> <br>
 3. Script3: Appendix - Zhihu web scarping and text analysis
-This notebook contains the Zhihu web scraping and text analysis I did but decided not to use as for project. The main reason is that the web scraping results were not ideal as I lost 30%~70% of comments for each post for technical reasons. Due to bias concerns, I decided only using Weibo and put the part of Zhihu as appendix.
+This notebook contains the Zhihu web scraping and text analysis I did but decided not to use as for project. The main reason is that the web scraping results were not ideal as I lost 30%~70% of comments for each post for technical reasons. Due to bias concerns, I decided only using Weibo and put the part of Zhihu as appendix. <br>
+Link: https://github.com/cl3668/Into-to-Text-Analysis-in-Python-Final-Project/blob/main/Script%203%20-%20Appendix%20-%20Zhihu%20web%20scarping%20and%20text%20analysis.ipynb
